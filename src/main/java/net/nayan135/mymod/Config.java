@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package net.nayan135.mymod;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;

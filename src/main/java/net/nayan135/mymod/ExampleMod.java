@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package net.nayan135.mymod;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
