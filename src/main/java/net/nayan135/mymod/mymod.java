@@ -40,7 +40,7 @@ public class mymod {
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
-        // Some common setup code
+        // Some common setup
 
     }
 
@@ -48,6 +48,7 @@ public class mymod {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
 
     }
+
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
     @SubscribeEvent
